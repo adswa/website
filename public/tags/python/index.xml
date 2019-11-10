@@ -17,16 +17,14 @@
       <link>/project/internal-project/</link>
       <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/project/internal-project/</guid>
-      <description>&lt;p&gt;multimatch-gazeis a Python-based reimplementation of the MultiMatch toolbox for
+      <description>&lt;p&gt;&lt;code&gt;multimatch-gaze&lt;/code&gt; is a Python-based reimplementation of the MultiMatch toolbox for
 scanpath comparison, originally developed by Jarodzka, Holmqvist, &amp;amp; Nyström (2010)
-and im-plemented by Dewhurst et al. (2012) in Matlab.&lt;/p&gt;
+and implemented by Dewhurst et al. (2012) in Matlab.&lt;/p&gt;
 
 &lt;p&gt;This reimplementation in Python aims at providing an accessible, documented, and
-testedopen source alternative to the existing MultiMatch toolbox. The algorithm
-is an establishedtool for scan path comparison (N. C. Anderson, Anderson, Kingstone,
-&amp;amp; Bischof, 2015),and improved availability aids adoption in a broader research community.
-multimatch-gaze is available from its Github repository and as the Python package
-multimatch-gaze via pip.&lt;/p&gt;
+tested open source alternative to the existing MultiMatch toolbox.
+&lt;code&gt;multimatch-gaze&lt;/code&gt; is available from its Github repository and as the Python package
+&lt;code&gt;multimatch-gaze&lt;/code&gt; via &lt;code&gt;pip&lt;/code&gt;.&lt;/p&gt;
 </description>
     </item>
     

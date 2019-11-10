@@ -20,3 +20,4 @@ title: Data Management Course
 url_code: "https://github.com/datalad-handbook/course/"
 ---
 State-of-the-art data management with DataLad, as lecture series or workshops.
+Find out more at https://github.com/datalad-handbook/course/.

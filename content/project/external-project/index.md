@@ -21,6 +21,10 @@ title: The DataLad handbook
 url_code: "https://github.com/datalad-handbook/book/"
 url_pdf: "http://handbook.datalad.org/en/latest/"
 ---
-The handbook is a practical, hands-on crashcourse to learn and experience DataLad.
-It is free and open-source, and you do not need to be a programmer, computer scientist, or Linux-crank. If you have never touched your computer's shell before, you will be fine. Regardless of your background and personal use cases for DataLad, the handbook will show you the principles of DataLad, and from chapter 1 onwards you will be using them.
+The handbook is a practical, hands-on crash-course to learn and experience DataLad
+(https://www.datalad.org).
+It is free and open-source, collaboratively developed, and written for scientists
+and users (not developers). One does not need to be a programmer, computer scientist, or Linux-crank
+to use it -- regardless of background and personal use cases for DataLad,
+the handbook teaches the principles of DataLad.
 
