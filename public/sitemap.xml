@@ -118,6 +118,11 @@
   </url>
   
   <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/git/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -129,11 +134,6 @@
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   

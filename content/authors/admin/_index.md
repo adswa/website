@@ -16,8 +16,10 @@ education:
 email: ""
 interests:
 - Python
-- Neuroscience
+- Open Source Software
+- Open Science
 - Neuroinformatics
+- Neuroscience
 name: Adina Svenja Wagner
 organizations:
 - name: Psychoinformatics Lab, INM-7, Research Centre Juelich

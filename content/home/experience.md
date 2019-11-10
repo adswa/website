@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
-subtitle = ""
+subtitle = "Find out more in my CV"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format

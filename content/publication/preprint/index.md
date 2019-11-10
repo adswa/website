@@ -9,6 +9,7 @@ featured: false
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
 #  focal_point: ""
 #  preview_only: false
+publication: '*BioRxiv'
 links:
 - name: BioRxiv
   url: https://doi.org/10.1101/619254
@@ -30,9 +31,3 @@ url_dataset: 'https://github.com/psychoinformatics-de/paper-remodnav'
 url_pdf: https://www.biorxiv.org/content/early/2019/04/26/619254.full.pdf
 url_poster: 'https://figshare.com/articles/REModNaV_A_Python-based_Algorithm_for_Robust_Event_Detection_for_Eye_Movements_During_Natural_Viewing/9791141'
 ---
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
