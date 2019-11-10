@@ -1,44 +1,34 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract:
 authors:
-- admin
+- Asim H. Dar, Adina S. Wagner, Michael Hanke
 date: "2019-04-07T00:00:00Z"
-doi: ""
+doi: " https://doi.org/10.1101/619254 "
 featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+#  focal_point: ""
+#  preview_only: false
 links:
-- name: Custom Link
-  url: http://example.org
+- name: BioRxiv
+  url: https://doi.org/10.1101/619254
 projects:
-- internal-project
 publication: ""
 publication_short: ""
 publication_types:
 - "3"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+publishDate: "2019-06-01T00:00:00Z"
+#slides: example
+summary: ""
 tags:
-- Source Themes
-title: An example preprint / working paper
-url_code: '#'
-url_dataset: '#'
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
+- Eye tracking
+- Python
+- Software
+title: REMoDNaV Robust Eye Movement Detection for Natural Viewing
+url_code: 'https://github.com/psychoinformatics-de/remodnav/tree/d28911838f91f33af0db57332f55ccc442d24f66'
+url_dataset: 'https://github.com/psychoinformatics-de/paper-remodnav'
+url_pdf: https://www.biorxiv.org/content/early/2019/04/26/619254.full.pdf
+url_poster: 'https://figshare.com/articles/REModNaV_A_Python-based_Algorithm_for_Robust_Event_Detection_for_Eye_Movements_During_Natural_Viewing/9791141'
 ---
 
 {{% alert note %}}

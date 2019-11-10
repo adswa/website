@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include open source software, reproducible (neuro-)science, and data management
-  matter.
+bio: My research interests include open source software, reproducible (neuro-)science, and data management.
 education:
   courses:
   - course: PhD in Psychoinformatics
@@ -55,8 +54,4 @@ in the [Psychoinformatics Lab](https://www.psychoinformatics.de/).
 My research focus lies on open source software development to foster open
 and reproducible scientific practices and analyses in neuroscience.
 
-I have acquired a broad potpourri of skills over the course of my studies.
-In previous employments and internships, I acquired experience in neuropsychological
-assessments, primarily with dementia patients, in experimental and comparative psychology,
-working with different species of corvids, and in teaching, as a teaching assistant for statistics.
-Now, however, I have found my passion in psychoinformatics.
+Please see my CV for more info about my skills and publications.

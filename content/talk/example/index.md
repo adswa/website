@@ -1,14 +1,12 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac
-  convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac
-  faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
-  eu, pulvinar tempor diam.
-all_day: false
-authors: []
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-event: Academic Theme Conference
-event_url: https://example.org
+abstract: How to not only share code and data easily, but also allow others to
+  build your complete scientific manuscript from scratch.
+#all_day: false
+authors: [Adina Svenja Wagner]
+date: "2019-08-29T13:00:00Z"
+#date_end: "2030-06-01T15:00:00Z"
+#event: Academic Theme Conference
+event_url: https://github.com/psychoinformatics-de/paper-remodnav
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -17,20 +15,20 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/AdinaKrik
 location: London, United Kingdom
 math: true
 projects:
-- internal-project
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: An example talk using Academic's Markdown slides feature.
+- datamanagement
+publishDate: "2019-07-01T00:00:00Z"
+#slides: example
+summary: Writing an automatically reproducible scientific manuscript.
 tags: []
-title: Example Talk
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+title: A reproducible paper
+url_code: "https://github.com/psychoinformatics-de/paper-remodnav"
+#url_pdf: ""
+url_slides: "https://github.com/datalad-handbook/course/blob/master/talks/PDFs/reproduciblepaper_INM7seminar_wagner.pdf"
+#url_video: ""
 ---
 
 {{% alert note %}}

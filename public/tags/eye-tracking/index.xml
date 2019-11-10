@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eye tracking | Adina Wagner</title>
+    <link>/tags/eye-tracking/</link>
+      <atom:link href="/tags/eye-tracking/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eye tracking</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Eye tracking</title>
+      <link>/tags/eye-tracking/</link>
+    </image>
+    
+    <item>
+      <title>multimatch_gaze</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;multimatch-gazeis a Python-based reimplementation of the MultiMatch toolbox for
+scanpath comparison, originally developed by Jarodzka, Holmqvist, &amp;amp; Nyström (2010)
+and im-plemented by Dewhurst et al. (2012) in Matlab.&lt;/p&gt;
+
+&lt;p&gt;This reimplementation in Python aims at providing an accessible, documented, and
+testedopen source alternative to the existing MultiMatch toolbox. The algorithm
+is an establishedtool for scan path comparison (N. C. Anderson, Anderson, Kingstone,
+&amp;amp; Bischof, 2015),and improved availability aids adoption in a broader research community.
+multimatch-gaze is available from its Github repository and as the Python package
+multimatch-gaze via pip.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>multimatch-gaze The MultiMatch algorithm for gaze path comparison in Python</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>REMoDNaV Robust Eye Movement Detection for Natural Viewing</title>
+      <link>/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source | Adina Wagner</title>
+    <link>/tags/open-source/</link>
+      <atom:link href="/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <description>Open Source</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Open Source</title>
+      <link>/tags/open-source/</link>
+    </image>
+    
+    <item>
+      <title>Data Management Course</title>
+      <link>/project/datamanagement/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/project/datamanagement/</guid>
+      <description>&lt;p&gt;State-of-the-art data management with DataLad, as lecture series or workshops.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The DataLad handbook</title>
+      <link>/project/external-project/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/project/external-project/</guid>
+      <description>&lt;p&gt;The handbook is a practical, hands-on crashcourse to learn and experience DataLad.
+It is free and open-source, and you do not need to be a programmer, computer scientist, or Linux-crank. If you have never touched your computer&amp;rsquo;s shell before, you will be fine. Regardless of your background and personal use cases for DataLad, the handbook will show you the principles of DataLad, and from chapter 1 onwards you will be using them.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>multimatch_gaze</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;multimatch-gazeis a Python-based reimplementation of the MultiMatch toolbox for
+scanpath comparison, originally developed by Jarodzka, Holmqvist, &amp;amp; Nyström (2010)
+and im-plemented by Dewhurst et al. (2012) in Matlab.&lt;/p&gt;
+
+&lt;p&gt;This reimplementation in Python aims at providing an accessible, documented, and
+testedopen source alternative to the existing MultiMatch toolbox. The algorithm
+is an establishedtool for scan path comparison (N. C. Anderson, Anderson, Kingstone,
+&amp;amp; Bischof, 2015),and improved availability aids adoption in a broader research community.
+multimatch-gaze is available from its Github repository and as the Python package
+multimatch-gaze via pip.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,24 +1,19 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract:
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- ...
+- Michael Hanke
+date: "2019-09-01T00:00:00Z"
 doi: ""
 featured: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
-links:
-- name: Custom Link
-  url: http://example.org
+#links:
+#- name: Custom Link
+#  url: http://example.org
 projects:
 - internal-project
 publication: In *Source Themes Conference*
@@ -26,20 +21,16 @@ publication_short: In *STC*
 publication_types:
 - "1"
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#slides: example
+summary:
 tags:
-- Source Themes
-title: An example conference paper
-url_code: '#'
-url_dataset: '#'
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
+- Data management
+- DataLad
+- Git
+title: The DataLad Handbook
+url_code: 'https://github.com/datalad-handbook/book/'
+url_pdf: 'http://handbook.datalad.org/en/latest/'
+url_project: "https://github.com/datalad-handbook"
 ---
 
 {{% alert note %}}

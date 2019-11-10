@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,19 +15,57 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
+      <description>&lt;p&gt;After graduating with a M.Sc in Psychology in 2019,
+I&amp;rsquo;m now a doctoral researcher at the Juelich Research Centre,
+&lt;a href=&#34;https://www.fz-juelich.de/inm/inm-7/EN/Home/home_node.html&#34; target=&#34;_blank&#34;&gt;INM-7&lt;/a&gt;,
+in the &lt;a href=&#34;https://www.psychoinformatics.de/&#34; target=&#34;_blank&#34;&gt;Psychoinformatics Lab&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+&lt;p&gt;My research focus lies on open source software development to foster open
+and reproducible scientific practices and analyses in neuroscience.&lt;/p&gt;
+
+&lt;p&gt;Please see my CV for more info about my skills and publications.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/robert-ford/</guid>
+      <title>...</title>
+      <link>/authors/.../</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/.../</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Hanke</title>
+      <link>/authors/michael-hanke/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-hanke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adina Svenja Wagner</title>
+      <link>/authors/adina-svenja-wagner/</link>
+      <pubDate>Thu, 29 Aug 2019 13:00:00 +0000</pubDate>
+      <guid>/authors/adina-svenja-wagner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yaroslav O. Halchenko</title>
+      <link>/authors/yaroslav-o.-halchenko/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yaroslav-o.-halchenko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asim H. Dar, Adina S. Wagner, Michael Hanke</title>
+      <link>/authors/asim-h.-dar-adina-s.-wagner-michael-hanke/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/asim-h.-dar-adina-s.-wagner-michael-hanke/</guid>
       <description></description>
     </item>
     
