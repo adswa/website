@@ -33,12 +33,21 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "Statistics Tutor"
+  company = "Otto-von-Guericke University Magdeburg"
+  company_url = ""
+  location = "Magdeburg, Germany"
+  date_start = "2017-10-01"
+  date_end = "2018-07-31"
+  description = """Taught statistics as a tutor to first year Psychology students."""
+
+[[experience]]
   title = "Research Associate"
   company = "Neurology department, Hospital Braunschweig"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Braunschweig, Germany"
+  date_start = "2016-10-01"
+  date_end = "2018-10-31"
+  description = """"""
 
 +++
