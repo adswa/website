@@ -56,4 +56,5 @@ in the [Psychoinformatics Lab](https://www.psychoinformatics.de/).
 My research focus lies on open source software development to foster open
 and reproducible scientific practices and analyses in neuroscience.
 
-Please see my CV for more info about my skills and publications.
+Please see my [CV](https://www.adina-wagner.com/files/CV.pdf) for more info
+about my skills and publications.

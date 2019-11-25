@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Talks"
-subtitle = "Slides and more"
+subtitle = "Slides and more of public talks or workshops"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

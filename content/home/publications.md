@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Featured Publications"
-subtitle = "Please see my CV for a full overview"
+subtitle = "Please see my [CV](https://www.adina-wagner.com/files/CV.pdf) for a complete overview"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
