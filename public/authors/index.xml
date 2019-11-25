@@ -5,13 +5,21 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 26 Nov 2019 16:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
     
+    <item>
+      <title>Adina Svenja Wagner</title>
+      <link>/authors/adina-svenja-wagner/</link>
+      <pubDate>Tue, 26 Nov 2019 16:00:00 +0000</pubDate>
+      <guid>/authors/adina-svenja-wagner/</guid>
+      <description></description>
+    </item>
+
     <item>
       <title></title>
       <link>/authors/admin/</link>
@@ -42,14 +50,6 @@ and reproducible scientific practices and analyses in neuroscience.&lt;/p&gt;
       <link>/authors/michael-hanke/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/authors/michael-hanke/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adina Svenja Wagner</title>
-      <link>/authors/adina-svenja-wagner/</link>
-      <pubDate>Thu, 29 Aug 2019 13:00:00 +0000</pubDate>
-      <guid>/authors/adina-svenja-wagner/</guid>
       <description></description>
     </item>
     

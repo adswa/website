@@ -18,10 +18,50 @@
   </url>
   
   <url>
+    <loc>/authors/adina-svenja-wagner/</loc>
+    <lastmod>2019-11-26T16:00:00+00:00</lastmod>
+  </url>
+
+  <url>
     <loc>/</loc>
-    <lastmod>2019-10-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-26T16:00:00+00:00</lastmod>
   </url>
   
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-11-26T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bids/</loc>
+    <lastmod>2019-11-26T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/dm_for_neuroscience/</loc>
+    <lastmod>2019-11-26T16:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>/tags/datalad/</loc>
+    <lastmod>2019-11-26T16:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>/tags/datamanagement/</loc>
+    <lastmod>2019-11-26T16:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-11-26T16:00:00+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2019-11-26T16:00:00+00:00</lastmod>
+  </url>
+
   <url>
     <loc>/tags/book/</loc>
     <lastmod>2019-10-27T00:00:00+00:00</lastmod>
@@ -43,22 +83,12 @@
   </url>
   
   <url>
-    <loc>/tags/datalad/</loc>
-    <lastmod>2019-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/open-source/</loc>
     <lastmod>2019-10-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/project/</loc>
-    <lastmod>2019-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-10-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,11 +143,6 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -144,16 +169,6 @@
   
   <url>
     <loc>/talk/example/</loc>
-    <lastmod>2019-08-29T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/adina-svenja-wagner/</loc>
-    <lastmod>2019-08-29T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
     <lastmod>2019-08-29T13:00:00+00:00</lastmod>
   </url>
   

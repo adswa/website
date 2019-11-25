@@ -16,7 +16,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/AdinaKrik
-location: London, United Kingdom
+location: Juelich Research Centre, INM-7, Germany
 math: true
 projects:
 - datamanagement

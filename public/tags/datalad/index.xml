@@ -5,13 +5,21 @@
     <link>/tags/datalad/</link>
       <atom:link href="/tags/datalad/index.xml" rel="self" type="application/rss+xml" />
     <description>DataLad</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 26 Nov 2019 16:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>DataLad</title>
       <link>/tags/datalad/</link>
     </image>
     
+    <item>
+      <title>Data management for Neuroscience. The BIDS standard and DataLad - An Introduction</title>
+      <link>/talk/dm_for_neuroscience/</link>
+      <pubDate>Tue, 26 Nov 2019 16:00:00 +0000</pubDate>
+      <guid>/talk/dm_for_neuroscience/</guid>
+      <description></description>
+    </item>
+
     <item>
       <title>Data Management Course</title>
       <link>/project/datamanagement/</link>
