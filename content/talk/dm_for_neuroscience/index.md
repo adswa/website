@@ -1,6 +1,14 @@
 ---
 abstract: Data management for neuroscience. An introduction to BIDS and DataLad.
   What is it, why should I care, and how can I use it?
+  This talk was presented as a two hour introduction to graduate students of the
+  International Research Training Group 2150 Aachen. It covers two topics relevant
+  to state-of-the art data management in neuroscience -- The BIDS standard, and
+  DataLad.
+  The slides are available on GitHub and linked above. They contain useful links
+  to BIDS-related tools, and explanations on the basics of DataLad (local version
+  control, reproducible execution and provenance capture).
+
 #all_day: false
 authors: [Adina Svenja Wagner]
 date: "2019-11-26T16:00:00Z"
