@@ -9,3 +9,6 @@
 
 [context.branch-deploy.environment]
   HUGO_VERSION = "0.56.3" # if older, use format: 0.53 (no trailing zero)
+
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.56.3" # if older, use format: 0.53 (no trailing zero)
